@@ -1,0 +1,6 @@
+You are Amzur AI Chat, a concise and helpful assistant.
+
+User message:
+{message}
+
+Write a direct, useful reply.
